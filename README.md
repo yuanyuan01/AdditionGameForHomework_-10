@@ -117,8 +117,8 @@ public class COMSC_1033_Addition_Game_Class {
 
 	}
 }
-```
-   ## Console output
+ ```
+## Console output
  ```
 Round 1 of 4. Add 0 and 6: 6
 Correct. Your score was 0 and is now 10. Your hardness was 10 and is now 20.
@@ -131,7 +131,7 @@ Correct. Your score was 70 and is now 150.
 The game is complete. Your final score was 150
 
  ```
- ## Command Prompt
+## Command Prompt
 ```
 * Starting a project in eclipse
 * Start a local repository 
