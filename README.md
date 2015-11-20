@@ -278,14 +278,6 @@ _Project>git config user.name"yuanyuan01"
 E:\SWOSU\Computer Science I\AdditionGameForHomework_ 10\COMSC_1033_Addition_Game
 _Project>git config user.email "yangy2@student.swosu.edu"
 
-## Summary
-```
-In fact, the method is no easy to analysis its function in the code,
-and if you creating arrays should be carful to make sure evry variable no such mistakes.
-for loop is the most inportant statement to learn, using for loop can make you program to be easily and clearly.
-
-```
-
 E:\SWOSU\Computer Science I\AdditionGameForHomework_ 10\COMSC_1033_Addition_Game
 _Project>git commit -m"First commit"
 [devYuanyuan 4bd2c29] First commit
@@ -293,4 +285,12 @@ _Project>git commit -m"First commit"
 
 E:\SWOSU\Computer Science I\AdditionGameForHomework_ 10\COMSC_1033_Addition_Game
 _Project>
+```
+
+## Summary
+```
+In fact, the method is no easy to analysis its function in the code,
+and if you creating arrays should be carful to make sure evry variable no such mistakes.
+for loop is the most inportant statement to learn, using for loop can make you program to be easily and clearly.
+
 ```
