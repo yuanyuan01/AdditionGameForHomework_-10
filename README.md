@@ -131,7 +131,7 @@ Correct. Your score was 70 and is now 150.
 The game is complete. Your final score was 150
 
  ```
-## Command Prompt
+ ## Command Prompt
 ```
 * Starting a project in eclipse
 * Start a local repository 
